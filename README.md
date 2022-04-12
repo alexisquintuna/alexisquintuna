@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola! 🤟🏽
+
+I am a motivated developer in the works. Trying to become the best full stack developer that I can with one language/library at a time.
 
 <!--
 **alexisquintuna/alexisquintuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
