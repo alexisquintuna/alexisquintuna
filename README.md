@@ -1,10 +1,3 @@
-<style>
-  .pebblesMe{
-    width: 150px
-    height: 550px
-  }
-</style>
-
 # Hola! 🤟🏽
 
 Developer by day.
