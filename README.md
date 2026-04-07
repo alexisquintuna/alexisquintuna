@@ -6,27 +6,25 @@ Developer by night too...
 
 Full-stack developer, with a slight addiction to front-end development.
 
-I create for me, for you, for ya. 
-
-Creating a user experience that makes you go "Ooo...I like that"
+Creating a user experience that makes you go "Ooo...I like that."
 
 ## **Currently:**
-  🧑🏽‍💼 Work: Barista <a href="https://www.rooseveltcoffee.org/" target="_blank">@Roosevelt Coffeehouse</a>  || Freelance
+  🧑🏽‍💼 Work: Developer @S8E8
   <br>
   <br>
-  🎥 Movies: been watching a lot of Studio Ghibli movies.
+  🎥 TV Show: Snowfall.
   <br>
   <br>
-  🔊 Music: really into live jazz, saw whiplash once and was like "ooo..I like that"
+  🔊 Music: Been feelin that rave shit lately not gonna lie.
   <br>
   <br>
   👀 Looking for: 
   <br>
-    1. how to enhance a users experiences on mobile
+    1. ways on how I can expand my creative thinking skills.
     <br>
-    2. tools that make it easier for me to create magic
+    2. tools that make it easier for me to create magic. Toolkits. AI Automation. 
     <br>
-    3. reasons why not to get <a href="https://www.alexisquintuna.com/static/media/Pebbles.c56e3d8f05538d2efe81.png" target="_blank">Pebbles</a> a cat friend.
+    3. a S15 🏎️
 
 
 
